@@ -1,0 +1,99 @@
+#cro_body {background-image:url(../images/skin/theme/normal/bg/body3.png);background-repeat:repeat-x;background-color:60bccd;}
+#cro_top {background-image:url(../images/skin/theme/normal/bg/top.png);background-repeat:repeat-x;width:100%;height:122;position:absolute;top:0px;left:0px;}
+#cro_top table.status {width:900px;height:60px;}
+#cro_top table.status a.controlpanel {background-image:url(../images/skin/theme/normal/header/control_panel.png);height:32px;width:32px;display:block;}
+#cro_top table.status a.bookmark {background-image:url(../images/skin/theme/normal/header/bookmark.png);height:32px;width:32px;display:block;}
+#cro_top table.status a.facebook {background-image:url(../images/skin/theme/normal/header/facebook.png);height:32px;width:32px;display:block;}
+#cro_top table.status a.review {background-image:url(../images/skin/theme/normal/header/review.png);height:32px;width:32px;display:block;}
+#cro_top table.status a.donate {background-image:url(../images/skin/theme/normal/header/donate.png);height:32px;width:32px;display:block;}
+#cro_top table.status span.content {font-family:Arial;color:white;font-size:12px;font-weight:bold;}
+#cro_top table.status span.content2 {font-family:Arial;color:07363e;font-size:12px;font-weight:bold;}
+#cro_top table.status a.status_on {background-image:url(../images/skin/theme/normal/header/status_on.png);height:24px;width:24px;display:block;}
+#cro_top table.status a.status_off {background-image:url(../images/skin/theme/normal/header/status_off.png);height:24px;width:24px;display:block;}
+#cro_top table.status a {font-family:Arial;color:white;font-size:12px;text-decoration:none;font-weight:bold;}
+#cro_top table.status a:hover {color:07363e;}
+#cro_top table.status td.login {width:80px;}
+#cro_top table.status td.character {width:110px;}
+#cro_top table.status td.map {width:75px;}
+#cro_top table.status td.status {width:75px;}
+#cro_container {background-image:url(../images/skin/theme/normal/bg/container.png);background-repeat:repeat-y;width:965}
+#cro_container #cro_base_image {background-image:url(../images/skin/theme/normal/base_image/01.png);background-repeat:no-repeat;background-position:center right;text-align:left;width:960px;height:478px;position:relative;top:53px;}
+#cro_container #cro_base_image a.logo {background-image:url(../images/skin/theme/normal/logo/01.png);background-repeat:no-repeat;width:420px;height:151px;display:block;position:relative;top:275px;left:50px;}
+#cro_container #cro_base_image #cro_news {background-image:url(../images/skin/theme/normal/bg/news.png);width:420px;height:200px;position:absolute;top:55px;left:60px;}
+#cro_container #cro_base_image #cro_news iframe.news {width:420px;height:200px;}
+#cro_container #cro_navigation {background-image:url(../images/skin/theme/normal/bg/navigation.png);width:950px;height:75px;}
+#cro_container #cro_navigation table.navigation {width:900px;height:61px;}
+#cro_container #cro_navigation table.navigation a.navigation {font-family:arial;font-size:12px;font-weight:bold;text-decoration:none;color:white;}
+#cro_container #cro_navigation table.navigation a.navigation:hover {color:07363e;}
+#cro_container #cro_navigation table.navigation span.search {font-family:Arial;color:07363e;font-size:12px;font-weight:bold;}
+#cro_container #cro_base table.base {width:875px;}
+#cro_container #cro_base table.base td.center {width:500px;border-right:2px dashed #38afc1;}
+#cro_container #cro_base table.base td.center #cro_title {background-image:url(../images/skin/theme/normal/bg/center.png);width:563px;height:75px;}
+#cro_container #cro_base table.base td.sidebar #cro_title {background-image:url(../images/skin/theme/normal/bg/sidebar.png);width:250px;height:75px;}
+#cro_container #cro_base table.base td.center #cro_title table.title {width:563px; height:60px;}
+#cro_container #cro_base table.base td.center #cro_title table.title a.icon {background-image:url(../images/skin/theme/normal/bg/icon.png);width:37;height:21px;display:block;}
+#cro_container #cro_base table.base td.center #cro_title table.title span.title {font-family:arial;color:white;font-size:14px;font-weight:bold;}
+#cro_container #cro_base table.base td.sidebar #cro_title table.title {width:250px; height:60px;}
+#cro_container #cro_base table.base td.sidebar #cro_title table.title a.icon {background-image:url(../images/skin/theme/normal/bg/icon.png);width:37;height:21px;display:block;}
+#cro_container #cro_base table.base td.sidebar #cro_title table.title span.title {font-family:arial;color:white;font-size:14px;font-weight:bold;}
+#cro_container #cro_base table.base td.sidebar a.potm {background-image:url(../images/resources/player_of_the_month/unknown.png);width:150px;height:200px;display:block;}
+#cro_container #cro_base table.base td.sidebar a.gotm {background-image:url(../images/resources/guild_of_the_month/unknown.png);width:128px;height:128px;display:block;}
+#cro_container #cro_base table.base span.content {font-family:Arial;color:07363e;font-size:12px;}
+#cro_container #cro_base table.base span.content2 {font-family:Arial;color:38afc1;font-size:12px;}
+#cro_container #cro_base table.base a.link {font-family:Arial;color:38afc1;font-size:12px;text-decoration:none;}
+#cro_container #cro_base table.base a.link:hover {color:white;}
+#cro_container #cro_base table.base td.center table.serverinfo {width:400px;}
+#cro_container #cro_base table.base td.center table.donationlist {width:550px;}
+#cro_container #cro_base table.base td.center table.donationlist td.item {border-bottom:2px dashed #38afc1}
+#cro_container #cro_base table.base td.center table.donationlist td.price {border-bottom:2px dashed #38afc1;width:150px;}
+#cro_container #cro_base table.base td.center table.donationlist td.item2 {border-bottom:2px dashed #dadada}
+#cro_container #cro_base table.base td.center table.donationlist td.price2 {border-bottom:2px dashed #dadada}
+#cro_container #cro_base table.base td.center table.donationlist span.title {font-family:arial;font-weight:bold;color:104c55;font-size:13px;}
+#cro_container #cro_base table.base td.center table.donationlist span.bonus {font-family:arial;font-weight:bold;color:c49e1f;font-size:13px;}
+#cro_container #cro_base table.base td.center table.donationlist span.promo {font-family:arial;font-weight:bold;color:7b0f1b;font-size:13px;}
+#cro_container #cro_base table.base td.center table.donationlist #bonus {background-color:fbcd34;border:2px dashed #c49e1f;}
+#cro_container #cro_base table.base td.center table.donationlist #promo {background-color:da263a;border:2px dashed #7b0f1b;}
+#cro_container #cro_base table.base td.center #cro_title #cro_promo {background-image:url(../images/skin/theme/normal/title/promotion.png);width:125px;height:75px;position:relative;top:-75px;left:450px;}
+#cro_container #cro_base table.base td.center #cro_title #cro_howtodonate {background-image:url(../images/skin/theme/normal/title/howtodonate.png);width:140px;height:75px;position:relative;top:-75px;left:450px;}
+#cro_container #cro_base table.base td.center #cro_title #cro_howtodonate a.howtodonate {width:100%;height:100%;display:block;}
+#cro_container #cro_base table.base td.center table.donationlist #bonus span.content {font-family:arial;color:white;font-size:12px;}
+#cro_container #cro_base table.base td.center table.donationlist #promo span.content {font-family:arial;color:white;font-size:12px;}
+#cro_container #cro_base table.base td.center table.download {width:100%;}
+#cro_container #cro_base table.base td.center table.download td.border_bottom_blue span.title {font-family:arial;font-size:13px;font-weight:bold;}
+#cro_container #cro_base table.base td.center table.download td.border_bottom_grey span.content {font-family:arial;font-size:12px;}
+#cro_container #cro_base table.base td.center table.download td.border_bottom_blue {border-bottom:2px dashed #38afc1;}
+#cro_container #cro_base table.base td.center table.download td.border_bottom_grey {border-bottom:2px dashed #dadada;}
+#cro_container #cro_footer {background-image:url(../images/skin/theme/normal/bg/footer.png);width:1024px;height:195px;position:fixed;bottom:0px;}
+#cro_container #cro_footer span.content {font-family:Arial;color:07363e;font-size:12px;font-weight:bold}
+#cro_container #cro_footer span.content2 {font-family:Arial;color:38afc1;font-size:12px;}
+#cro_container #cro_footer a.link {font-family:Arial;color:38afc1;font-size:12px;text-decoration:underline;}
+#cro_container #cro_footer a.link:hover {color:white;}
+#cro_container #cro_footer a.juvarabrera {background-image:url(../images/skin/theme/normal/footer/logo.png);height:50px;width:77px;display:block;}
+#cro_container_bottom {background-image:url(../images/skin/theme/normal/bg/container_end.png);width:965px;height:117px;}
+#cro_body2 {background-image:url(../images/skin/theme/normal/bg/body2.png);background-repeat:repeat-x;background-color:37afc1;}
+#cro_message {background-image:url(../images/skin/theme/normal/bg/message.png);width:600px;height:250px;}
+#cro_message table.message {width:520px;height:195px;}
+#cro_message table.message span.title {font-family:arial;font-size:14px;font-weight:bold;color:white;}
+#cro_message table.message span.content {font-family:arial;font-size:12px;color:white;}
+#cro_message table.message a.underconstruction {background-image:url(../images/skin/theme/normal/message/underconstruction.png);width:97px;height:96px;display:block;}
+#cro_footer2 table.footer {width:800px;}
+#cro_footer2 table.footer a.juvarabrera {background-image:url(../images/skin/theme/normal/footer/logo.png);height:50px;width:78px;display:block;}
+#cro_footer2 table.footer span.content {font-family:arial;font-size:12px;color:white;}
+hr.blue {border:1px solid #50b7c9;border-bottom:2px dashed #38afc1;}
+hr.white {border:1px solid #efefef;border-bottom:2px dashed #d6d6d6;}
+hr.yellow {border:1px solid #fbcd34;border-bottom:2px dashed #c49e1f;}
+hr.red {border:1px solid #da263a;border-bottom:2px dashed #7b0f1b;}
+hr.blue2 {border:1px solid #efefef;border-bottom:2px dashed #38afc1;}
+
+
+
+
+a.btn_download_client {background:url(../images/sprites/buttons/download_client.png) 0 0;width:200px;height:60px;display:block;}
+a.btn_download_client:hover {background:url(../images/sprites/buttons/download_client.png) 0 -60px;}
+a.btn_visit_our_forum {background:url(../images/sprites/buttons/visit_our_forum.png) 0 0;width:200px;height:60px;display:block;}
+a.btn_visit_our_forum:hover {background:url(../images/sprites/buttons/visit_our_forum.png) 0 -60px;}
+table.news {width:420px;height:200px;}
+table.news span.title {font-family:arial;font-size:14px;font-weight:bold;color:white;}
+table.news span.content {font-family:arial;font-size:12px;color:white;}
+table.news a.readmore {font-family:arial;font-size:12px;color:white;text-decoration:none;font-weight:bold;}
+table.news a.readmore:hover {color:38afc1;}
